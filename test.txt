@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 c'est le test sur la branche master
+=======
+hello world
+>>>>>>> variante
